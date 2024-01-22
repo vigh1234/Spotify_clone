@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif;
+}
+.container1{
+    display: flex;
+    flex-wrap: row;
+    flex-wrap: wrap;
+}
+.fa-spotify{
+    font-size: 25px;
+    color: white;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.fa-house{
+    font-size: 22px;
+    color: white;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.fa-magnifying-glass{
+    font-size: 22px;
+    color: rgb(135, 134, 134);
+    margin-left: 30px;
+    margin-top: 15px;
+}
+#p1{
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: medium;
+}
+#p2{
+    color: rgb(135, 134, 134);
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: medium;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,116 @@
+body{
+    font-family: sans-serif;
+}
+.container2{
+    display: flex;
+    flex-wrap: row;
+    flex-wrap: wrap;
+}
+#libry{
+    color: rgb(135, 134, 134);
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: medium;
+}
+.fa-list{
+    font-size: 25px;
+    color:rgb(135, 134, 134);
+    margin-left: 30px;
+    margin-top: 25px;
+}
+.fa-plus{
+    font-size: 20px;
+    color:rgb(135, 134, 134);
+    margin-left: 70px;
+    margin-top: 33px;
+}
+.container4{
+    background-color: rgb(43, 42, 42);
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-radius: 7px 7px 0px 0px;
+    max-height: 70px;
+    overflow-y: scroll;
+    padding-bottom: 20px;
+}
+.container4::-webkit-scrollbar{
+    background:transparent ;
+    width: 4px;
+    }
+    
+.container4::-webkit-scrollbar-thumb{
+    background-color: rgb(22, 22, 22);
+    border: none;
+    }
+#p3{
+    font-size: larger;
+    color: white;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+#p4{
+    font-size: small;
+    color: white;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+button{
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 150px;
+    border-radius: 20px;
+    height: 30px;
+    border: none;
+}
+#p5{
+    font-weight: bold;
+}
+#p8{
+    font-size: larger;
+    color: white;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.container5{
+    margin-top: 35px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container6{
+    margin-top: -10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#p6{
+    font-size: small;
+    color: rgb(135, 134, 134);
+    margin-left: 20px;
+    margin-top: 25px;
+}
+#container{
+    border-style: solid;
+    border-radius: 20px;
+    width: 150px;
+    padding: 7px;
+    margin-top: 30px;
+    margin-left: 15px;
+    border-width: 1px;
+    border-color: rgb(135, 134, 134);
+}
+#container:hover{
+    border-color: white;
+}
+.fa-earth-americas{
+    font-size: 17px;
+    color:white;
+    margin-left: 30px;
+   
+}
+#p7{
+    margin-left: 10px;
+    font-size: small;
+    color: white;
+}

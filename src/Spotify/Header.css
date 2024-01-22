@@ -1,0 +1,120 @@
+body{
+    font-family: sans-serif;
+}
+.container7{
+    background-color: rgb(13, 13, 13);
+    display: flex;
+    flex-direction: row;
+    border-radius: 7px 7px 0px 0px;
+}
+
+.fa-angle-left,.fa-angle-right{
+   font-size: x-large;
+    color:white;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;    
+}
+.p1{
+    font-size: larger;
+    color: rgb(144, 144, 144);
+    margin-top: 17px;
+    margin-left: 600px;
+    font-weight: bold;
+}
+.p1:hover{
+    color: white;
+}
+#btn1{
+        margin-left: 40px;
+        margin-top: 10px;
+        width: 100px;
+        border-radius: 20px;
+        height: 40px;
+        border: none;
+}
+.p2{
+    font-weight: bolder;
+}
+.p3{
+    font-size:27px;
+    font-weight:800;
+    color: white;
+    margin-top: 7px;
+    margin-left: 20px;
+}
+.p3:hover{
+    text-decoration: underline;
+}
+.img1{
+    border-radius: 10px;
+    height: 210px;
+    width: 200px;
+}
+.p4{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 45px;
+    background-color: rgb(16, 16, 16);
+    width: 220px;
+    margin-left: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.p4:hover{
+    background-color: rgb(40, 40, 40);
+}
+.p5{
+    font-size: medium;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.container9{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container10{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.p6{
+    font-size: large;
+    color: white;
+    margin-top: 35px;
+}
+#p9{
+    font-size: medium;
+    margin-top: 10px;
+    color: grey;
+}
+#p9:hover{
+    color: white;
+    text-decoration: underline;
+}
+.fa-instagram,.fa-x-twitter,.fa-facebook-f{
+    font-size: 25px;
+    margin-left: 25px;
+    margin-top: 50px;
+    color: grey;
+}
+.under{
+    content: "";
+    display: block;
+    height: 1px;
+    width: 80%;
+    background-color: rgb(112, 111, 111);
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-bottom: 40px;
+}
+.copyright{
+    color: grey;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}

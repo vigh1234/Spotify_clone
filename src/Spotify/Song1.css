@@ -1,0 +1,106 @@
+body{
+    font-family: sans-serif;
+}
+.Mainimage{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#sign{
+    color: rgb(144, 144, 144);
+    font-size: large;
+}
+#sign:hover{
+    color: white;
+}
+a{
+    color: black;
+    font-weight:150px;
+}
+.starboy{
+    height: 250px;
+    width: 230px;
+    margin-top: 60px;
+    margin-left: 40px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 35px rgb(19, 0, 4);
+}
+.songname{
+    margin-top: 120px;
+    margin-left: 25px;
+}
+#songname{
+    font-size: medium;
+    color: rgb(230, 227, 227);
+    font-weight: bolder;
+}
+
+#weeknd{
+    font-size: 110px;
+    font-weight: bold;
+    color: white;
+}
+.songdescription{
+    font-size: medium;
+    margin-top: 15px;
+    color: white;
+}
+.fa-circle-play{
+    color: rgb(35, 224, 95);
+    margin-top: 30px;
+    margin-left: 60px;
+    font-size: 55px;
+}
+.fa-heart{
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 30px;
+    color: rgb(164, 163, 163);
+}
+
+.fa-heart:hover{
+    color: white;
+}
+
+#fullsong{
+    background-color: rgb(51, 93, 179);
+    width: 70%;
+    height: 110px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+.fullsong{
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.fullsong1{
+    margin-left: 40px;
+    margin-top: 65px;
+    font-size: large;
+    color: white;
+}
+.fullsong1:hover{
+    text-decoration:underline;
+}
+#signbutton{
+    margin-left: 40px;
+    margin-top: 50px;
+    width: 100px;
+    border-radius: 20px;
+    height: 40px;
+    border: none;
+}
+.fa-duotone{
+    color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 30px;
+}

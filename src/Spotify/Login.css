@@ -1,0 +1,231 @@
+/* html {
+   
+} */
+body {
+    background: linear-gradient(0deg, black, rgb(28, 28, 28));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0%;
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+.container25{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: black;
+    padding-bottom: 25px;
+    
+    
+}
+.spotify1{
+    color: #fcfcfd;
+    font-size: 53px;
+    margin-top: 25px;
+    margin-left: 50px;
+
+}
+#spotify1{
+    margin-left: 20px;
+    margin-top: 35px;
+    font-size: x-large;
+    color: white;
+}
+#a1{
+    color: white;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 20px;
+
+   
+}
+.container26{
+    margin-top: 40px;
+    width: 60%;
+    padding-top: 40px;
+    background-color: black;
+    margin-left: 20%;
+    border-radius: 7px;
+}
+.google1{
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 15px;
+    margin-left: 60px;
+    
+}
+.google{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-width: 1px;
+    border-style: ridge;
+    border-color: rgb(112, 111, 111);
+    border-radius: 30px;
+    width: 45%;
+    margin-left: 27%;
+    height: 50px;
+}
+#a2{
+    color: white;
+    margin-left: 15px;
+    font-size: large;
+    margin-top: 15px;
+    
+}
+.fb{
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+.facebook1{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-width: 1px;
+    border-style: ridge;
+    border-color: rgb(112, 111, 111);
+    border-radius: 30px;
+    width: 45%;
+    margin-left: 27%;
+    height: 50px;
+}
+.fa-apple{
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+.apple{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-width: 1px;
+    border-style: ridge;
+    border-color: rgb(112, 111, 111);
+    border-radius: 30px;
+    width: 45%;
+    margin-left: 27%;
+    height: 50px;
+}
+#a3{
+    color: white;
+    margin-left: 50px;
+    font-size: large;
+    margin-top: 15px;
+}
+.mobile{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border-width: 1px;
+    border-style: ridge;
+    border-color: rgb(112, 111, 111);
+    border-radius: 30px;
+    width: 45%;
+    margin-left: 27%;
+    height: 50px;
+}
+.google:hover,.facebook1:hover,.apple:hover,.mobile:hover{
+    border-color: white;
+}
+.underline1{
+    content: "";
+  display: block;
+  height: 1px;
+  width: 60%;
+  background-color: rgb(112, 111, 111);
+  margin-top: 40px;
+  margin-left: 20%;
+  margin-bottom: 40px;
+}
+label{
+    color: white;
+    margin-left: 210px;
+    font-size: large;
+    margin-top: 25px;
+}
+#userinput{
+    margin-top: 7px;
+    margin-bottom: 25px;
+    margin-left: 210px;
+    width: 43%;
+    height: 40px;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1.5px;
+    background-color: rgb(39, 39, 39);
+}
+::placeholder{
+    padding: 10px;
+    font-size: medium;
+    color: rgb(152, 151, 151);
+}
+#userinput:hover{
+    border-color: white;
+}
+.buttn{
+    margin-top: 30px;
+    margin-left: 210px;
+    width: 43%;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    background-color:rgb(35, 224, 95);
+    font-size: medium;
+    font-weight: bold;
+}
+
+#a4{
+    font-size: medium;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-left: 280px;
+    color: white;
+}
+#a4:hover{
+    color: rgb(85, 210, 85);
+}
+.container28{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#a5{
+    font-size: medium;
+    margin-top: 30px;
+    margin-left: 210px;
+    color: rgb(145, 143, 143);
+}
+#a6{
+    font-size: medium;
+    text-decoration: underline;
+    margin-top: 30px;
+    color: white;
+    margin-left: 10px;
+}
+#a6:hover{
+    color: rgb(85, 210, 85);
+}
+
+#a7{ 
+    margin-top: 50px;
+    margin-bottom: 35px;
+    text-align: center;
+    color:rgb(145, 143, 143);
+    font-size: smaller;
+}
+#a8{
+    text-decoration: underline;
+}
+#error1{
+    margin-left: 28%;
+    color: rgb(249, 91, 91);
+    
+}
